@@ -1,0 +1,7 @@
+../.idea/
+local.py
+db.sqlite3
+pink_blue_app/__pycache__.*
+pinkblue_assignment/settings/local.py
+__pycache__.*
+__pycache__
